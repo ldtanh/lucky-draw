@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/lucky-draw/static/css/main.56c01886.chunk.css",
+    "main.js": "/lucky-draw/static/js/main.f6e4eeda.chunk.js",
+    "main.js.map": "/lucky-draw/static/js/main.f6e4eeda.chunk.js.map",
+    "runtime~main.js": "/lucky-draw/static/js/runtime~main.cb9ab0a0.js",
+    "runtime~main.js.map": "/lucky-draw/static/js/runtime~main.cb9ab0a0.js.map",
+    "static/css/2.88bb5262.chunk.css": "/lucky-draw/static/css/2.88bb5262.chunk.css",
+    "static/js/2.f69e3185.chunk.js": "/lucky-draw/static/js/2.f69e3185.chunk.js",
+    "static/js/2.f69e3185.chunk.js.map": "/lucky-draw/static/js/2.f69e3185.chunk.js.map",
+    "index.html": "/lucky-draw/index.html",
+    "precache-manifest.09b4ebafde1657741b7b0ef9b48f5870.js": "/lucky-draw/precache-manifest.09b4ebafde1657741b7b0ef9b48f5870.js",
+    "service-worker.js": "/lucky-draw/service-worker.js",
+    "static/css/2.88bb5262.chunk.css.map": "/lucky-draw/static/css/2.88bb5262.chunk.css.map",
+    "static/css/main.56c01886.chunk.css.map": "/lucky-draw/static/css/main.56c01886.chunk.css.map"
+  }
+}
