@@ -19,7 +19,7 @@ export default class LuckyDrawComponent extends React.Component {
         fontColor={"#000"}
         fontSize={"20px"}
         writingModel={"tb"}
-        drawButtonLabel={"Start"}
+        drawButtonLabel={"Lucky Draw!"}
         textArray={candidates}
         onSuccessDrawReturn={handleFinished}
         onOutLimitAlert={limit => {
