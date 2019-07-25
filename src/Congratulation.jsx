@@ -19,6 +19,7 @@ const showCongratulation = (title, selectedCandidate, handleStopFiring) => {
       </h1>
     ),
     onOk: () => handleStopFiring(selectedCandidate),
+    width: 600,
   });
 };
 

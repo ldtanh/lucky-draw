@@ -7,12 +7,12 @@ export default class LuckyDrawComponent extends React.Component {
     const { candidates, handleFinished, drawLimit } = this.props;
     return (
       <LuckyDraw
-        width={1024}
+        width={1200}
         height={700}
-        wheelSize={1000}
+        wheelSize={1100}
         range={candidates.length}
         innerRadius={250}
-        outerRadius={500}
+        outerRadius={550}
         showInnerLabels
         drawLimitSwitch
         drawLimit={drawLimit}
