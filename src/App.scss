@@ -1,0 +1,26 @@
+.main-app {
+  text-align: center;
+  overflow: auto;
+  
+  .ant-list {
+    width: 50%;
+    margin: auto;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+  }
+
+  .react_luckyDraw {
+    margin: auto;
+  }
+  
+  .ant-modal-confirm-body .ant-modal-confirm-title {
+    font-size: 36px;
+    display: inline-block;
+    line-height: 100px;
+  }
+  
+  .ant-modal-confirm-content {
+    font-size: 24px;
+  }
+}
